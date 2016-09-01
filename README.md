@@ -7,7 +7,7 @@
          * eclipse 社区免费版 插件丰富
 2. 推荐一款插件给大家当然这个插件是在你做应用的环境搭建好了以后，，这款插件瞬间提升逼格
 3. cordova 自我感觉还是mac 使用这款插件的话还挺简单的。当然你得有个npm 顺带也装一个nodejs吧
-4. 简单阐述一下mac 下如何使用cordova [1] :http://cordova.apache.org/官网看一下无脑操作吧。
+4. 简单阐述一下mac 下如何使用cordova [1] :http://cordova.apache.org/
   * npm install -g cordova 因为权限问题在你的终端输入的时候 ： sudo npm install -g cordova(把自己开发的web程序打包成app安装包)
   * cordova 现在支持主流的手机操作系统, android iOS wp
   * cordova 提供很多的插件, 通过插件可以调用设备的硬件
